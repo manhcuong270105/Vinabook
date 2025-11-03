@@ -1,1236 +1,1300 @@
 {
   "Files": [
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/obj/Debug/net6.0/scopedcss/projectbundle/Vinabook.bundle.scp.css",
-      "PackagePath": "staticwebassets/Vinabook.bundle.scp.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/animate.min.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/animate.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/animate.min.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/animate.min.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/bootstrap-cerulean.min.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/bootstrap-cerulean.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/bootstrap-cerulean.min.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/bootstrap-cerulean.min.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/bootstrap-cyborg.min.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/bootstrap-cyborg.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/bootstrap-cyborg.min.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/bootstrap-cyborg.min.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/bootstrap-darkly.min.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/bootstrap-darkly.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/bootstrap-darkly.min.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/bootstrap-darkly.min.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/bootstrap-lumen.min.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/bootstrap-lumen.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/bootstrap-lumen.min.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/bootstrap-lumen.min.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/bootstrap-simplex.min.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/bootstrap-simplex.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/bootstrap-simplex.min.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/bootstrap-simplex.min.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/bootstrap-slate.min.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/bootstrap-slate.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/bootstrap-slate.min.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/bootstrap-slate.min.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/bootstrap-spacelab.min.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/bootstrap-spacelab.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/bootstrap-spacelab.min.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/bootstrap-spacelab.min.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/bootstrap-united.min.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/bootstrap-united.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/bootstrap-united.min.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/bootstrap-united.min.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/charisma-app.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/charisma-app.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/charisma-app.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/charisma-app.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/elfinder.min.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/elfinder.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/elfinder.min.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/elfinder.min.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/elfinder.theme.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/elfinder.theme.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/elfinder.theme.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/elfinder.theme.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/jquery-ui-1.8.21.custom.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/jquery-ui-1.8.21.custom.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/jquery-ui-1.8.21.custom.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/jquery-ui-1.8.21.custom.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/jquery.iphone.toggle.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/jquery.iphone.toggle.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/jquery.iphone.toggle.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/jquery.iphone.toggle.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/jquery.noty.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/jquery.noty.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/jquery.noty.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/jquery.noty.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/noty_theme_default.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/noty_theme_default.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/noty_theme_default.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/noty_theme_default.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/css/uploadify.css",
+      "PackagePath": "staticwebassets/AdminLayout/css/uploadify.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/css/uploadify.css",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/css/uploadify.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/fonts/glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets/AdminLayout/fonts/glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/fonts/glyphicons-halflings-regular.eot",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/fonts/glyphicons-halflings-regular.eot"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/fonts/glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets/AdminLayout/fonts/glyphicons-halflings-regular.svg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/fonts/glyphicons-halflings-regular.svg",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/fonts/glyphicons-halflings-regular.svg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/fonts/glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets/AdminLayout/fonts/glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/fonts/glyphicons-halflings-regular.ttf",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/fonts/glyphicons-halflings-regular.ttf"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/fonts/glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets/AdminLayout/fonts/glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/fonts/glyphicons-halflings-regular.woff",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/fonts/glyphicons-halflings-regular.woff"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/ajax-loaders/ajax-loader-1.gif",
+      "PackagePath": "staticwebassets/AdminLayout/img/ajax-loaders/ajax-loader-1.gif"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-1.gif",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-1.gif"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/ajax-loaders/ajax-loader-2.gif",
+      "PackagePath": "staticwebassets/AdminLayout/img/ajax-loaders/ajax-loader-2.gif"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-2.gif",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-2.gif"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/ajax-loaders/ajax-loader-3.gif",
+      "PackagePath": "staticwebassets/AdminLayout/img/ajax-loaders/ajax-loader-3.gif"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-3.gif",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-3.gif"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/ajax-loaders/ajax-loader-4.gif",
+      "PackagePath": "staticwebassets/AdminLayout/img/ajax-loaders/ajax-loader-4.gif"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-4.gif",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-4.gif"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/ajax-loaders/ajax-loader-5.gif",
+      "PackagePath": "staticwebassets/AdminLayout/img/ajax-loaders/ajax-loader-5.gif"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-5.gif",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-5.gif"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/ajax-loaders/ajax-loader-6.gif",
+      "PackagePath": "staticwebassets/AdminLayout/img/ajax-loaders/ajax-loader-6.gif"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-6.gif",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-6.gif"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/ajax-loaders/ajax-loader-7.gif",
+      "PackagePath": "staticwebassets/AdminLayout/img/ajax-loaders/ajax-loader-7.gif"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-7.gif",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-7.gif"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/ajax-loaders/ajax-loader-8.gif",
+      "PackagePath": "staticwebassets/AdminLayout/img/ajax-loaders/ajax-loader-8.gif"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-8.gif",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/ajax-loaders/ajax-loader-8.gif"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/favicon.ico",
+      "PackagePath": "staticwebassets/AdminLayout/img/favicon.ico"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/favicon.ico",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/favicon.ico"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/iphone-style-checkboxes/off.png",
+      "PackagePath": "staticwebassets/AdminLayout/img/iphone-style-checkboxes/off.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/iphone-style-checkboxes/off.png",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/iphone-style-checkboxes/off.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/iphone-style-checkboxes/on.png",
+      "PackagePath": "staticwebassets/AdminLayout/img/iphone-style-checkboxes/on.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/iphone-style-checkboxes/on.png",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/iphone-style-checkboxes/on.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/iphone-style-checkboxes/slider.png",
+      "PackagePath": "staticwebassets/AdminLayout/img/iphone-style-checkboxes/slider.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/iphone-style-checkboxes/slider.png",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/iphone-style-checkboxes/slider.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/iphone-style-checkboxes/slider_center.png",
+      "PackagePath": "staticwebassets/AdminLayout/img/iphone-style-checkboxes/slider_center.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/iphone-style-checkboxes/slider_center.png",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/iphone-style-checkboxes/slider_center.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/iphone-style-checkboxes/slider_left.png",
+      "PackagePath": "staticwebassets/AdminLayout/img/iphone-style-checkboxes/slider_left.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/iphone-style-checkboxes/slider_left.png",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/iphone-style-checkboxes/slider_left.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/iphone-style-checkboxes/slider_right.png",
+      "PackagePath": "staticwebassets/AdminLayout/img/iphone-style-checkboxes/slider_right.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/iphone-style-checkboxes/slider_right.png",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/iphone-style-checkboxes/slider_right.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/logo.png",
+      "PackagePath": "staticwebassets/AdminLayout/img/logo.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/logo.png",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/logo.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/logo20.png",
+      "PackagePath": "staticwebassets/AdminLayout/img/logo20.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/logo20.png",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/logo20.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/star-half.png",
+      "PackagePath": "staticwebassets/AdminLayout/img/star-half.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/star-half.png",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/star-half.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/star-off.png",
+      "PackagePath": "staticwebassets/AdminLayout/img/star-off.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/star-off.png",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/star-off.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/star-on.png",
+      "PackagePath": "staticwebassets/AdminLayout/img/star-on.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/star-on.png",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/star-on.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/thumb.png",
+      "PackagePath": "staticwebassets/AdminLayout/img/thumb.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/thumb.png",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/thumb.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/img/uploadify-cancel.png",
+      "PackagePath": "staticwebassets/AdminLayout/img/uploadify-cancel.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/img/uploadify-cancel.png",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/img/uploadify-cancel.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/js/charisma.js",
+      "PackagePath": "staticwebassets/AdminLayout/js/charisma.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/js/charisma.js",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/js/charisma.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/js/init-chart.js",
+      "PackagePath": "staticwebassets/AdminLayout/js/init-chart.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/js/init-chart.js",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/js/init-chart.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/js/jquery.autogrow-textarea.js",
+      "PackagePath": "staticwebassets/AdminLayout/js/jquery.autogrow-textarea.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/js/jquery.autogrow-textarea.js",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/js/jquery.autogrow-textarea.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/js/jquery.cookie.js",
+      "PackagePath": "staticwebassets/AdminLayout/js/jquery.cookie.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/js/jquery.cookie.js",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/js/jquery.cookie.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/js/jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets/AdminLayout/js/jquery.dataTables.min.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/js/jquery.dataTables.min.js",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/js/jquery.dataTables.min.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/js/jquery.history.js",
+      "PackagePath": "staticwebassets/AdminLayout/js/jquery.history.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/js/jquery.history.js",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/js/jquery.history.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/js/jquery.iphone.toggle.js",
+      "PackagePath": "staticwebassets/AdminLayout/js/jquery.iphone.toggle.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/js/jquery.iphone.toggle.js",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/js/jquery.iphone.toggle.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/js/jquery.noty.js",
+      "PackagePath": "staticwebassets/AdminLayout/js/jquery.noty.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/js/jquery.noty.js",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/js/jquery.noty.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/js/jquery.raty.min.js",
+      "PackagePath": "staticwebassets/AdminLayout/js/jquery.raty.min.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/js/jquery.raty.min.js",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/js/jquery.raty.min.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/js/jquery.uploadify-3.1.min.js",
+      "PackagePath": "staticwebassets/AdminLayout/js/jquery.uploadify-3.1.min.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/js/jquery.uploadify-3.1.min.js",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/js/jquery.uploadify-3.1.min.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/js/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/AdminLayout/js/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/js/jquery.validate.min.js",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/js/jquery.validate.min.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/misc/check-exists.php",
+      "PackagePath": "staticwebassets/AdminLayout/misc/check-exists.php"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/misc/check-exists.php",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/misc/check-exists.php"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/misc/uploadify.php",
+      "PackagePath": "staticwebassets/AdminLayout/misc/uploadify.php"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/misc/uploadify.php",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/misc/uploadify.php"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/AdminLayout/misc/uploadify.swf",
+      "PackagePath": "staticwebassets/AdminLayout/misc/uploadify.swf"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/AdminLayout (copy)/misc/uploadify.swf",
-      "PackagePath": "staticwebassets/content/AdminLayout (copy)/misc/uploadify.swf"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnh/Anh1.png",
+      "PackagePath": "staticwebassets/HinhAnh/Anh1.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnh/Anh1.png",
-      "PackagePath": "staticwebassets/content/HinhAnh/Anh1.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnh/Anh2.png",
+      "PackagePath": "staticwebassets/HinhAnh/Anh2.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnh/Anh2.png",
-      "PackagePath": "staticwebassets/content/HinhAnh/Anh2.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnh/Anh3.png",
+      "PackagePath": "staticwebassets/HinhAnh/Anh3.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnh/Anh3.png",
-      "PackagePath": "staticwebassets/content/HinhAnh/Anh3.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnh/go-top-button.png",
+      "PackagePath": "staticwebassets/HinhAnh/go-top-button.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnh/go-top-button.png",
-      "PackagePath": "staticwebassets/content/HinhAnh/go-top-button.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnh/icon_google_plus.png",
+      "PackagePath": "staticwebassets/HinhAnh/icon_google_plus.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnh/icon_google_plus.png",
-      "PackagePath": "staticwebassets/content/HinhAnh/icon_google_plus.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnh/icon_hotline.png",
+      "PackagePath": "staticwebassets/HinhAnh/icon_hotline.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnh/icon_hotline.png",
-      "PackagePath": "staticwebassets/content/HinhAnh/icon_hotline.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnh/icon_printerest.png",
+      "PackagePath": "staticwebassets/HinhAnh/icon_printerest.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnh/icon_printerest.png",
-      "PackagePath": "staticwebassets/content/HinhAnh/icon_printerest.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnh/icon_twitter.png",
+      "PackagePath": "staticwebassets/HinhAnh/icon_twitter.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnh/icon_twitter.png",
-      "PackagePath": "staticwebassets/content/HinhAnh/icon_twitter.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnh/imgSearch.png",
+      "PackagePath": "staticwebassets/HinhAnh/imgSearch.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnh/imgSearch.png",
-      "PackagePath": "staticwebassets/content/HinhAnh/imgSearch.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnh/logo_fb.png",
+      "PackagePath": "staticwebassets/HinhAnh/logo_fb.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnh/logo_fb.png",
-      "PackagePath": "staticwebassets/content/HinhAnh/logo_fb.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnh/toolbar_find.png",
+      "PackagePath": "staticwebassets/HinhAnh/toolbar_find.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnh/toolbar_find.png",
-      "PackagePath": "staticwebassets/content/HinhAnh/toolbar_find.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000001.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000001.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000001.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000001.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000002.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000002.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000002.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000002.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000003.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000003.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000003.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000003.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000004.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000004.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000004.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000004.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000005.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000005.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000005.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000005.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000006.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000006.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000006.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000006.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000007.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000007.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000007.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000007.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000008.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000008.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000008.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000008.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000009.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000009.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000009.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000009.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000010.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000010.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000010.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000010.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000011.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000011.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000011.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000011.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000012.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000012.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000012.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000012.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000013.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000013.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000013.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000013.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000014.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000014.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000014.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000014.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000015.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000015.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000015.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000015.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000016.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000016.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000016.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000016.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000017.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000017.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000017.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000017.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000018.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000018.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000018.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000018.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000019.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000019.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000019.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000019.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000020.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000020.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000020.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000020.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000021.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000021.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000021.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000021.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000022.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000022.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000022.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000022.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000023.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000023.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000023.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000023.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000024.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000024.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000024.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000024.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000025.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000025.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000025.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000025.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000026.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000026.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000026.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000026.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000027.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000027.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000027.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000027.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000028.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000028.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000028.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000028.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000029.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000029.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000029.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000029.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000030.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000030.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000030.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000030.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000031.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000031.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000031.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000031.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000032.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000032.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000032.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000032.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000033.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000033.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000033.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000033.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000034.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000034.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000034.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000034.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000035.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000035.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000035.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000035.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000036.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000036.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000036.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000036.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000037.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000037.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000037.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000037.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000038.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000038.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000038.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000038.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000039.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000039.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000039.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000039.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000040.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000040.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000040.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000040.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000041.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000041.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000041.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000041.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000042.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000042.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000042.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000042.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000043.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000043.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000043.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000043.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000044.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000044.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000044.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000044.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000045.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000045.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000045.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000045.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000046.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000046.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000046.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000046.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000047.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000047.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000047.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000047.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000048.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000048.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000048.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000048.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000049.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000049.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000049.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000049.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000050.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000050.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000050.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000050.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000051.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000051.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000051.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000051.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000052.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000052.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000052.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000052.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000053.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000053.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000053.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000053.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000054.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000054.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000054.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000054.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000055.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000055.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000055.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000055.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000056.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000056.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000056.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000056.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000057.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000057.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000057.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000057.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000058.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000058.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000058.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000058.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000059.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000059.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000059.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000059.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000060.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000060.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000060.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000060.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000061.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000061.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000061.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000061.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000062.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000062.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000062.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000062.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000063.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000063.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000063.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000063.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/HinhAnhSP/000064.jpg",
+      "PackagePath": "staticwebassets/HinhAnhSP/000064.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/HinhAnhSP/000064.jpg",
-      "PackagePath": "staticwebassets/content/HinhAnhSP/000064.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/Register/bootstrap/css/bootstrap.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/PagedList.css",
-      "PackagePath": "staticwebassets/content/PagedList.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/Register/bootstrap/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/bootstrap/css/bootstrap.css",
-      "PackagePath": "staticwebassets/content/Register/bootstrap/css/bootstrap.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/bootstrap/img/glyphicons-halflings-white.png",
+      "PackagePath": "staticwebassets/Register/bootstrap/img/glyphicons-halflings-white.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/bootstrap/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/content/Register/bootstrap/css/bootstrap.min.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/bootstrap/img/glyphicons-halflings.png",
+      "PackagePath": "staticwebassets/Register/bootstrap/img/glyphicons-halflings.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/bootstrap/img/glyphicons-halflings-white.png",
-      "PackagePath": "staticwebassets/content/Register/bootstrap/img/glyphicons-halflings-white.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/Register/bootstrap/js/bootstrap.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/bootstrap/img/glyphicons-halflings.png",
-      "PackagePath": "staticwebassets/content/Register/bootstrap/img/glyphicons-halflings.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/Register/bootstrap/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/bootstrap/js/bootstrap.js",
-      "PackagePath": "staticwebassets/content/Register/bootstrap/js/bootstrap.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/css/OleoScript.css",
+      "PackagePath": "staticwebassets/Register/css/OleoScript.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/bootstrap/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/content/Register/bootstrap/js/bootstrap.min.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/css/PTSans.css",
+      "PackagePath": "staticwebassets/Register/css/PTSans.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/css/OleoScript.css",
-      "PackagePath": "staticwebassets/content/Register/css/OleoScript.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/css/style.css",
+      "PackagePath": "staticwebassets/Register/css/style.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/css/PTSans.css",
-      "PackagePath": "staticwebassets/content/Register/css/PTSans.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/img/backgrounds/1.jpg",
+      "PackagePath": "staticwebassets/Register/img/backgrounds/1.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/css/style.css",
-      "PackagePath": "staticwebassets/content/Register/css/style.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/img/backgrounds/2.jpg",
+      "PackagePath": "staticwebassets/Register/img/backgrounds/2.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/img/backgrounds/1.jpg",
-      "PackagePath": "staticwebassets/content/Register/img/backgrounds/1.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/img/backgrounds/3.jpg",
+      "PackagePath": "staticwebassets/Register/img/backgrounds/3.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/img/backgrounds/2.jpg",
-      "PackagePath": "staticwebassets/content/Register/img/backgrounds/2.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/img/blog.png",
+      "PackagePath": "staticwebassets/Register/img/blog.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/img/backgrounds/3.jpg",
-      "PackagePath": "staticwebassets/content/Register/img/backgrounds/3.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/img/home.png",
+      "PackagePath": "staticwebassets/Register/img/home.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/img/blog.png",
-      "PackagePath": "staticwebassets/content/Register/img/blog.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/img/iphone.png",
+      "PackagePath": "staticwebassets/Register/img/iphone.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/img/home.png",
-      "PackagePath": "staticwebassets/content/Register/img/home.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/img/pattern.jpg",
+      "PackagePath": "staticwebassets/Register/img/pattern.jpg"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/img/iphone.png",
-      "PackagePath": "staticwebassets/content/Register/img/iphone.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/img/pencil.png",
+      "PackagePath": "staticwebassets/Register/img/pencil.png"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/img/pattern.jpg",
-      "PackagePath": "staticwebassets/content/Register/img/pattern.jpg"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/js/jquery-1.8.2.min.js",
+      "PackagePath": "staticwebassets/Register/js/jquery-1.8.2.min.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/img/pencil.png",
-      "PackagePath": "staticwebassets/content/Register/img/pencil.png"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/js/jquery.backstretch.min.js",
+      "PackagePath": "staticwebassets/Register/js/jquery.backstretch.min.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/js/jquery-1.8.2.min.js",
-      "PackagePath": "staticwebassets/content/Register/js/jquery-1.8.2.min.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/Register/js/scripts.js",
+      "PackagePath": "staticwebassets/Register/js/scripts.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/js/jquery.backstretch.min.js",
-      "PackagePath": "staticwebassets/content/Register/js/jquery.backstretch.min.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/css/PagedList.css",
+      "PackagePath": "staticwebassets/css/PagedList.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Register/js/scripts.js",
-      "PackagePath": "staticwebassets/content/Register/js/scripts.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/css/Site.css",
+      "PackagePath": "staticwebassets/css/Site.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/Site.css",
-      "PackagePath": "staticwebassets/content/Site.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/css/bootstrap-theme.css",
+      "PackagePath": "staticwebassets/css/bootstrap-theme.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/bootstrap-theme.css",
-      "PackagePath": "staticwebassets/content/bootstrap-theme.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/css/bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-theme.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/bootstrap-theme.css.map",
-      "PackagePath": "staticwebassets/content/bootstrap-theme.css.map"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/css/bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-theme.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/bootstrap-theme.min.css",
-      "PackagePath": "staticwebassets/content/bootstrap-theme.min.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/bootstrap.css",
-      "PackagePath": "staticwebassets/content/bootstrap.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/bootstrap.css.map",
-      "PackagePath": "staticwebassets/content/bootstrap.css.map"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/bootstrap.min.css",
-      "PackagePath": "staticwebassets/content/bootstrap.min.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/css/jasny-bootstrap.css",
+      "PackagePath": "staticwebassets/css/jasny-bootstrap.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/jasny-bootstrap.css",
-      "PackagePath": "staticwebassets/content/jasny-bootstrap.css"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/css/jasny-bootstrap.css.map",
+      "PackagePath": "staticwebassets/css/jasny-bootstrap.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/jasny-bootstrap.css.map",
-      "PackagePath": "staticwebassets/content/jasny-bootstrap.css.map"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/css/jasny-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/jasny-bootstrap.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/jasny-bootstrap.min.css",
-      "PackagePath": "staticwebassets/content/jasny-bootstrap.min.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/login/css/style.css",
-      "PackagePath": "staticwebassets/content/login/css/style.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/login/img/bg.jpg",
-      "PackagePath": "staticwebassets/content/login/img/bg.jpg"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/login/js/prefixfree.min.js",
-      "PackagePath": "staticwebassets/content/login/js/prefixfree.min.js"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/accordion.css",
-      "PackagePath": "staticwebassets/content/themes/base/accordion.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/all.css",
-      "PackagePath": "staticwebassets/content/themes/base/all.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/autocomplete.css",
-      "PackagePath": "staticwebassets/content/themes/base/autocomplete.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/base.css",
-      "PackagePath": "staticwebassets/content/themes/base/base.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/button.css",
-      "PackagePath": "staticwebassets/content/themes/base/button.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/core.css",
-      "PackagePath": "staticwebassets/content/themes/base/core.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/datepicker.css",
-      "PackagePath": "staticwebassets/content/themes/base/datepicker.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/dialog.css",
-      "PackagePath": "staticwebassets/content/themes/base/dialog.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/draggable.css",
-      "PackagePath": "staticwebassets/content/themes/base/draggable.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png",
-      "PackagePath": "staticwebassets/content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png",
-      "PackagePath": "staticwebassets/content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png",
-      "PackagePath": "staticwebassets/content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png",
-      "PackagePath": "staticwebassets/content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/images/ui-bg_glass_75_dadada_1x400.png",
-      "PackagePath": "staticwebassets/content/themes/base/images/ui-bg_glass_75_dadada_1x400.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png",
-      "PackagePath": "staticwebassets/content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png",
-      "PackagePath": "staticwebassets/content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png",
-      "PackagePath": "staticwebassets/content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/images/ui-icons_222222_256x240.png",
-      "PackagePath": "staticwebassets/content/themes/base/images/ui-icons_222222_256x240.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/images/ui-icons_2e83ff_256x240.png",
-      "PackagePath": "staticwebassets/content/themes/base/images/ui-icons_2e83ff_256x240.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/images/ui-icons_454545_256x240.png",
-      "PackagePath": "staticwebassets/content/themes/base/images/ui-icons_454545_256x240.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/images/ui-icons_888888_256x240.png",
-      "PackagePath": "staticwebassets/content/themes/base/images/ui-icons_888888_256x240.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/images/ui-icons_cd0a0a_256x240.png",
-      "PackagePath": "staticwebassets/content/themes/base/images/ui-icons_cd0a0a_256x240.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/menu.css",
-      "PackagePath": "staticwebassets/content/themes/base/menu.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/progressbar.css",
-      "PackagePath": "staticwebassets/content/themes/base/progressbar.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/resizable.css",
-      "PackagePath": "staticwebassets/content/themes/base/resizable.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/selectable.css",
-      "PackagePath": "staticwebassets/content/themes/base/selectable.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/selectmenu.css",
-      "PackagePath": "staticwebassets/content/themes/base/selectmenu.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/slider.css",
-      "PackagePath": "staticwebassets/content/themes/base/slider.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/sortable.css",
-      "PackagePath": "staticwebassets/content/themes/base/sortable.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/spinner.css",
-      "PackagePath": "staticwebassets/content/themes/base/spinner.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/tabs.css",
-      "PackagePath": "staticwebassets/content/themes/base/tabs.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/theme.css",
-      "PackagePath": "staticwebassets/content/themes/base/theme.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/themes/base/tooltip.css",
-      "PackagePath": "staticwebassets/content/themes/base/tooltip.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/content/userlayout/css/bootstrap.min.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/css/font-awesome.min.css",
-      "PackagePath": "staticwebassets/content/userlayout/css/font-awesome.min.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/css/owl.carousel.css",
-      "PackagePath": "staticwebassets/content/userlayout/css/owl.carousel.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/css/responsive.css",
-      "PackagePath": "staticwebassets/content/userlayout/css/responsive.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/css/style.css",
-      "PackagePath": "staticwebassets/content/userlayout/css/style.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/fonts/FontAwesome.otf",
-      "PackagePath": "staticwebassets/content/userlayout/fonts/FontAwesome.otf"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/fonts/OleoScript.css",
-      "PackagePath": "staticwebassets/content/userlayout/fonts/OleoScript.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/fonts/PTSans.css",
-      "PackagePath": "staticwebassets/content/userlayout/fonts/PTSans.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/fonts/TitilliumWeb.css",
-      "PackagePath": "staticwebassets/content/userlayout/fonts/TitilliumWeb.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/fonts/fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets/content/userlayout/fonts/fontawesome-webfont.eot"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/fonts/fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets/content/userlayout/fonts/fontawesome-webfont.svg"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/fonts/fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets/content/userlayout/fonts/fontawesome-webfont.ttf"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/fonts/fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets/content/userlayout/fonts/fontawesome-webfont.woff"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/fonts/glyphicons-halflings-regular.eot",
-      "PackagePath": "staticwebassets/content/userlayout/fonts/glyphicons-halflings-regular.eot"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/fonts/glyphicons-halflings-regular.svg",
-      "PackagePath": "staticwebassets/content/userlayout/fonts/glyphicons-halflings-regular.svg"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/fonts/glyphicons-halflings-regular.ttf",
-      "PackagePath": "staticwebassets/content/userlayout/fonts/glyphicons-halflings-regular.ttf"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/fonts/glyphicons-halflings-regular.woff",
-      "PackagePath": "staticwebassets/content/userlayout/fonts/glyphicons-halflings-regular.woff"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/brand1.png",
-      "PackagePath": "staticwebassets/content/userlayout/img/brand1.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/brand2.png",
-      "PackagePath": "staticwebassets/content/userlayout/img/brand2.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/brand3.png",
-      "PackagePath": "staticwebassets/content/userlayout/img/brand3.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/brand4.png",
-      "PackagePath": "staticwebassets/content/userlayout/img/brand4.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/brand5.png",
-      "PackagePath": "staticwebassets/content/userlayout/img/brand5.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/brand6.png",
-      "PackagePath": "staticwebassets/content/userlayout/img/brand6.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/crossword.png",
-      "PackagePath": "staticwebassets/content/userlayout/img/crossword.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/h4-slide.png",
-      "PackagePath": "staticwebassets/content/userlayout/img/h4-slide.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/h4-slide2.png",
-      "PackagePath": "staticwebassets/content/userlayout/img/h4-slide2.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/h4-slide3.png",
-      "PackagePath": "staticwebassets/content/userlayout/img/h4-slide3.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/h4-slide4.png",
-      "PackagePath": "staticwebassets/content/userlayout/img/h4-slide4.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/h4-slide7.png",
-      "PackagePath": "staticwebassets/content/userlayout/img/h4-slide7.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/logo.png",
-      "PackagePath": "staticwebassets/content/userlayout/img/logo.png"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/product-1.jpg",
-      "PackagePath": "staticwebassets/content/userlayout/img/product-1.jpg"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/product-2.jpg",
-      "PackagePath": "staticwebassets/content/userlayout/img/product-2.jpg"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/product-3.jpg",
-      "PackagePath": "staticwebassets/content/userlayout/img/product-3.jpg"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/product-4.jpg",
-      "PackagePath": "staticwebassets/content/userlayout/img/product-4.jpg"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/product-5.jpg",
-      "PackagePath": "staticwebassets/content/userlayout/img/product-5.jpg"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/product-6.jpg",
-      "PackagePath": "staticwebassets/content/userlayout/img/product-6.jpg"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/product-thumb-1.jpg",
-      "PackagePath": "staticwebassets/content/userlayout/img/product-thumb-1.jpg"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/product-thumb-2.jpg",
-      "PackagePath": "staticwebassets/content/userlayout/img/product-thumb-2.jpg"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/product-thumb-3.jpg",
-      "PackagePath": "staticwebassets/content/userlayout/img/product-thumb-3.jpg"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/img/product-thumb-4.jpg",
-      "PackagePath": "staticwebassets/content/userlayout/img/product-thumb-4.jpg"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/js/BannerFloat.js",
-      "PackagePath": "staticwebassets/content/userlayout/js/BannerFloat.js"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/js/bxslider.min.js",
-      "PackagePath": "staticwebassets/content/userlayout/js/bxslider.min.js"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/js/jquery.easing.1.3.min.js",
-      "PackagePath": "staticwebassets/content/userlayout/js/jquery.easing.1.3.min.js"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/js/jquery.sticky.js",
-      "PackagePath": "staticwebassets/content/userlayout/js/jquery.sticky.js"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/js/main.js",
-      "PackagePath": "staticwebassets/content/userlayout/js/main.js"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/js/owl.carousel.min.js",
-      "PackagePath": "staticwebassets/content/userlayout/js/owl.carousel.min.js"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/js/quangcaotruot.js",
-      "PackagePath": "staticwebassets/content/userlayout/js/quangcaotruot.js"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/content/userlayout/js/script.slider.js",
-      "PackagePath": "staticwebassets/content/userlayout/js/script.slider.js"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
-    },
-    {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/favicon.ico",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/fonts/glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/fonts/glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/fonts/glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/fonts/glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/Chart.js",
+      "PackagePath": "staticwebassets/js/Chart.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/Chart.min.js",
+      "PackagePath": "staticwebassets/js/Chart.min.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/bootbox.js",
+      "PackagePath": "staticwebassets/js/bootbox.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/bootbox.min.js",
+      "PackagePath": "staticwebassets/js/bootbox.min.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/jasny-bootstrap.js",
+      "PackagePath": "staticwebassets/js/jasny-bootstrap.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/jasny-bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/jasny-bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/jquery-1.10.2.intellisense.js",
+      "PackagePath": "staticwebassets/js/jquery-1.10.2.intellisense.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/jquery-1.10.2.js",
+      "PackagePath": "staticwebassets/js/jquery-1.10.2.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/jquery-1.10.2.min.js",
+      "PackagePath": "staticwebassets/js/jquery-1.10.2.min.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/jquery-1.10.2.min.map",
+      "PackagePath": "staticwebassets/js/jquery-1.10.2.min.map"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/jquery-ui-1.11.4.js",
+      "PackagePath": "staticwebassets/js/jquery-ui-1.11.4.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/jquery-ui-1.11.4.min.js",
+      "PackagePath": "staticwebassets/js/jquery-ui-1.11.4.min.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/js/modernizr-2.6.2.js",
+      "PackagePath": "staticwebassets/js/modernizr-2.6.2.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/shinllaca27/Projects/Vinabook/Vinabook/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/login/css/style.css",
+      "PackagePath": "staticwebassets/login/css/style.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/login/img/bg.jpg",
+      "PackagePath": "staticwebassets/login/img/bg.jpg"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/login/js/prefixfree.min.js",
+      "PackagePath": "staticwebassets/login/js/prefixfree.min.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/accordion.css",
+      "PackagePath": "staticwebassets/themes/base/accordion.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/all.css",
+      "PackagePath": "staticwebassets/themes/base/all.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/autocomplete.css",
+      "PackagePath": "staticwebassets/themes/base/autocomplete.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/base.css",
+      "PackagePath": "staticwebassets/themes/base/base.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/button.css",
+      "PackagePath": "staticwebassets/themes/base/button.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/core.css",
+      "PackagePath": "staticwebassets/themes/base/core.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/datepicker.css",
+      "PackagePath": "staticwebassets/themes/base/datepicker.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/dialog.css",
+      "PackagePath": "staticwebassets/themes/base/dialog.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/draggable.css",
+      "PackagePath": "staticwebassets/themes/base/draggable.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/images/ui-bg_flat_75_ffffff_40x100.png",
+      "PackagePath": "staticwebassets/themes/base/images/ui-bg_flat_75_ffffff_40x100.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png",
+      "PackagePath": "staticwebassets/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/images/ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets/themes/base/images/ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/images/ui-bg_glass_75_dadada_1x400.png",
+      "PackagePath": "staticwebassets/themes/base/images/ui-bg_glass_75_dadada_1x400.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png",
+      "PackagePath": "staticwebassets/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "PackagePath": "staticwebassets/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/images/ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets/themes/base/images/ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/images/ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets/themes/base/images/ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/images/ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets/themes/base/images/ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/images/ui-icons_888888_256x240.png",
+      "PackagePath": "staticwebassets/themes/base/images/ui-icons_888888_256x240.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/images/ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets/themes/base/images/ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/menu.css",
+      "PackagePath": "staticwebassets/themes/base/menu.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/progressbar.css",
+      "PackagePath": "staticwebassets/themes/base/progressbar.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/resizable.css",
+      "PackagePath": "staticwebassets/themes/base/resizable.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/selectable.css",
+      "PackagePath": "staticwebassets/themes/base/selectable.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/selectmenu.css",
+      "PackagePath": "staticwebassets/themes/base/selectmenu.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/slider.css",
+      "PackagePath": "staticwebassets/themes/base/slider.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/sortable.css",
+      "PackagePath": "staticwebassets/themes/base/sortable.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/spinner.css",
+      "PackagePath": "staticwebassets/themes/base/spinner.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/tabs.css",
+      "PackagePath": "staticwebassets/themes/base/tabs.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/theme.css",
+      "PackagePath": "staticwebassets/themes/base/theme.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/themes/base/tooltip.css",
+      "PackagePath": "staticwebassets/themes/base/tooltip.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/userlayout/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/userlayout/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/css/owl.carousel.css",
+      "PackagePath": "staticwebassets/userlayout/css/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/css/responsive.css",
+      "PackagePath": "staticwebassets/userlayout/css/responsive.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/css/style.css",
+      "PackagePath": "staticwebassets/userlayout/css/style.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/userlayout/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/fonts/OleoScript.css",
+      "PackagePath": "staticwebassets/userlayout/fonts/OleoScript.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/fonts/PTSans.css",
+      "PackagePath": "staticwebassets/userlayout/fonts/PTSans.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/fonts/TitilliumWeb.css",
+      "PackagePath": "staticwebassets/userlayout/fonts/TitilliumWeb.css"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/userlayout/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/userlayout/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/userlayout/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/userlayout/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/fonts/glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets/userlayout/fonts/glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/fonts/glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets/userlayout/fonts/glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/fonts/glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets/userlayout/fonts/glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/fonts/glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets/userlayout/fonts/glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/brand1.png",
+      "PackagePath": "staticwebassets/userlayout/img/brand1.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/brand2.png",
+      "PackagePath": "staticwebassets/userlayout/img/brand2.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/brand3.png",
+      "PackagePath": "staticwebassets/userlayout/img/brand3.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/brand4.png",
+      "PackagePath": "staticwebassets/userlayout/img/brand4.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/brand5.png",
+      "PackagePath": "staticwebassets/userlayout/img/brand5.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/brand6.png",
+      "PackagePath": "staticwebassets/userlayout/img/brand6.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/crossword.png",
+      "PackagePath": "staticwebassets/userlayout/img/crossword.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/h4-slide.png",
+      "PackagePath": "staticwebassets/userlayout/img/h4-slide.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/h4-slide2.png",
+      "PackagePath": "staticwebassets/userlayout/img/h4-slide2.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/h4-slide3.png",
+      "PackagePath": "staticwebassets/userlayout/img/h4-slide3.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/h4-slide4.png",
+      "PackagePath": "staticwebassets/userlayout/img/h4-slide4.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/h4-slide7.png",
+      "PackagePath": "staticwebassets/userlayout/img/h4-slide7.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/logo.png",
+      "PackagePath": "staticwebassets/userlayout/img/logo.png"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/product-1.jpg",
+      "PackagePath": "staticwebassets/userlayout/img/product-1.jpg"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/product-2.jpg",
+      "PackagePath": "staticwebassets/userlayout/img/product-2.jpg"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/product-3.jpg",
+      "PackagePath": "staticwebassets/userlayout/img/product-3.jpg"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/product-4.jpg",
+      "PackagePath": "staticwebassets/userlayout/img/product-4.jpg"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/product-5.jpg",
+      "PackagePath": "staticwebassets/userlayout/img/product-5.jpg"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/product-6.jpg",
+      "PackagePath": "staticwebassets/userlayout/img/product-6.jpg"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/product-thumb-1.jpg",
+      "PackagePath": "staticwebassets/userlayout/img/product-thumb-1.jpg"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/product-thumb-2.jpg",
+      "PackagePath": "staticwebassets/userlayout/img/product-thumb-2.jpg"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/product-thumb-3.jpg",
+      "PackagePath": "staticwebassets/userlayout/img/product-thumb-3.jpg"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/img/product-thumb-4.jpg",
+      "PackagePath": "staticwebassets/userlayout/img/product-thumb-4.jpg"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/js/BannerFloat.js",
+      "PackagePath": "staticwebassets/userlayout/js/BannerFloat.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/js/bxslider.min.js",
+      "PackagePath": "staticwebassets/userlayout/js/bxslider.min.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/js/jquery.easing.1.3.min.js",
+      "PackagePath": "staticwebassets/userlayout/js/jquery.easing.1.3.min.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/js/jquery.sticky.js",
+      "PackagePath": "staticwebassets/userlayout/js/jquery.sticky.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/js/main.js",
+      "PackagePath": "staticwebassets/userlayout/js/main.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/userlayout/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/js/quangcaotruot.js",
+      "PackagePath": "staticwebassets/userlayout/js/quangcaotruot.js"
+    },
+    {
+      "Id": "/Users/shinllaca27/Documents/Vinabook/Vinabook/wwwroot/userlayout/js/script.slider.js",
+      "PackagePath": "staticwebassets/userlayout/js/script.slider.js"
     },
     {
       "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Vinabook.Microsoft.AspNetCore.StaticWebAssets.props",
