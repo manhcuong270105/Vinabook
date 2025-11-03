@@ -1,0 +1,369 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Vinabook
+build_property.RootNamespace = Vinabook
+build_property.ProjectDir = /Users/shinllaca27/Documents/Vinabook/Vinabook/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/shinllaca27/Documents/Vinabook/Vinabook
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQWRtaW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQWRtaW4vTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Admin/TotalBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQWRtaW4vVG90YWxCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Admin/TotalDHChuaThanhToan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQWRtaW4vVG90YWxESENodWFUaGFuaFRvYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Admin/TotalMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQWRtaW4vVG90YWxNZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Admin/TotalMoney.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQWRtaW4vVG90YWxNb25leS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Chart/Chart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ2hhcnQvQ2hhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Chart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ2hhcnQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Chart/PieChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ2hhcnQvUGllQ2hhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Chart/_Partial_ThongKeDoanhThu_Nam_Chart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ2hhcnQvX1BhcnRpYWxfVGhvbmdLZURvYW5oVGh1X05hbV9DaGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Chart/_Partial_ThongKeDoanhThu_Thang_Chart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ2hhcnQvX1BhcnRpYWxfVGhvbmdLZURvYW5oVGh1X1RoYW5nX0NoYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/ChuDe/DanhMucChuDePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ2h1RGUvRGFuaE11Y0NodURlUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/GioHang/DatHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvR2lvSGFuZy9EYXRIYW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/GioHang/DatHangPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvR2lvSGFuZy9EYXRIYW5nUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/GioHang/GioHangPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvR2lvSGFuZy9HaW9IYW5nUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/GioHang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvR2lvSGFuZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/GioHang/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvR2lvSGFuZy9TdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/GioHang/TongSlGioHangPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvR2lvSGFuZy9Ub25nU2xHaW9IYW5nUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/GioHang/TongTienGioHangPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvR2lvSGFuZy9Ub25nVGllbkdpb0hhbmdQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Home/Check_Success_Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvSG9tZS9DaGVja19TdWNjZXNzX1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Home/CoTheBanQuanTam_Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvSG9tZS9Db1RoZUJhblF1YW5UYW1fUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Home/GoogleMap_Success_Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvSG9tZS9Hb29nbGVNYXBfU3VjY2Vzc19QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Home/HoTroDetailsSuccess_Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvSG9tZS9Ib1Ryb0RldGFpbHNTdWNjZXNzX1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Home/HoTroSuccess_Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvSG9tZS9Ib1Ryb1N1Y2Nlc3NfUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Home/SachbanChay_Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvSG9tZS9TYWNoYmFuQ2hheV9QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Home/SachMoi_Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvSG9tZS9TYWNoTW9pX1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/NguoiDung/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvTmd1b2lEdW5nL0xvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/NguoiDung/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvTmd1b2lEdW5nL1JlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/NhaXuatban/DanhMucNhaXuatBanPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvTmhhWHVhdGJhbi9EYW5oTXVjTmhhWHVhdEJhblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QLDonHang/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUUxEb25IYW5nL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QLDonHang/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUUxEb25IYW5nL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QLDonHang/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUUxEb25IYW5nL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QLDonHang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUUxEb25IYW5nL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QLDonHang/XemCTDHPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUUxEb25IYW5nL1hlbUNUREhQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyChuDe/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5Q2h1RGUvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyChuDe/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5Q2h1RGUvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyChuDe/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5Q2h1RGUvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyChuDe/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5Q2h1RGUvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyChuDe/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5Q2h1RGUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyChuDe/IndexPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5Q2h1RGUvSW5kZXhQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyChuDe/XemCTCDPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5Q2h1RGUvWGVtQ1RDRFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyKH/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5S0gvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyKH/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5S0gvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyKH/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5S0gvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyKH/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5S0gvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyKH/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5S0gvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyKH/XemCTKHPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5S0gvWGVtQ1RLSFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyKhuyenMai/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5S2h1eWVuTWFpL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyKhuyenMai/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5S2h1eWVuTWFpL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyKhuyenMai/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5S2h1eWVuTWFpL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyKhuyenMai/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5S2h1eWVuTWFpL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyKhuyenMai/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5S2h1eWVuTWFpL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyNXB/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5TlhCL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyNXB/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5TlhCL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyNXB/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5TlhCL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyNXB/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5TlhCL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLyNXB/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5TlhCL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLySach/ChinhSua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5U2FjaC9DaGluaFN1YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLySach/HienThi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5U2FjaC9IaWVuVGhpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLySach/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5U2FjaC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLySach/ThemMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5U2FjaC9UaGVtTW9pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLySach/XemCTSachPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5U2FjaC9YZW1DVFNhY2hQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/QuanLySach/Xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvUXVhbkx5U2FjaC9Yb2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Sach/Sach.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2FjaC9TYWNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Sach/SachCoTheBanQuanTam_Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2FjaC9TYWNoQ29UaGVCYW5RdWFuVGFtX1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Sach/SachCungChuDePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2FjaC9TYWNoQ3VuZ0NodURlUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Sach/SachGanDayPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2FjaC9TYWNoR2FuRGF5UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Sach/SachGiamGia_Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2FjaC9TYWNoR2lhbUdpYV9QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Sach/SachITPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2FjaC9TYWNoSVRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Sach/SachMoiNhapVe_Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2FjaC9TYWNoTW9pTmhhcFZlX1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Sach/SachMoiPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2FjaC9TYWNoTW9pUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Sach/SachPhatGiaoPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2FjaC9TYWNoUGhhdEdpYW9QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Sach/SachTheoChuDe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2FjaC9TYWNoVGhlb0NodURlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Sach/SachTheoNhaXuatBan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2FjaC9TYWNoVGhlb05oYVh1YXRCYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Sach/SachTheoTacGia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2FjaC9TYWNoVGhlb1RhY0dpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Sach/SachTiengAnhPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2FjaC9TYWNoVGllbmdBbmhQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Sach/XemChiTiet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2FjaC9YZW1DaGlUaWV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Shared/_Partial_1_Sach.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2hhcmVkL19QYXJ0aWFsXzFfU2FjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Shared/_Partial_Body_Dialog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2hhcmVkL19QYXJ0aWFsX0JvZHlfRGlhbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2hhcmVkL19Vc2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/TacGia/DanhMucTacGia_Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvVGFjR2lhL0RhbmhNdWNUYWNHaWFfUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/TimKiem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvVGltS2llbS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/TimKiem/TimKiemPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvVGltS2llbS9UaW1LaWVtUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shinllaca27/Documents/Vinabook/Vinabook/views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

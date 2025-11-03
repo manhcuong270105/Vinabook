@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oSD5pcMH9El+t4ilSP2n8U2oKF6dZ6sOQar6g6f6A5YAnKYw4UohW+ql+8wW1ql67SqtWws2Z9tEnoZweV5TVQ==",
+  "success": true,
+  "projectFilePath": "/Users/shinllaca27/Documents/Vinabook/Vinabook/Vinabook.csproj",
+  "expectedPackageFiles": [
+    "/Users/shinllaca27/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/shinllaca27/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/shinllaca27/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
